@@ -6,7 +6,6 @@
 
 <p align="left"> 
   Sou desenvolvedor <strong>Fullstack</strong> com foco em <strong>PHP (Laravel)</strong> no backend e <strong>JavaScript</strong> no front.
-  Também tenho experiência com MySQL, AngularJS, JQuery, APIs RESTful e mais.
 </p>
 
 <p align="left">
