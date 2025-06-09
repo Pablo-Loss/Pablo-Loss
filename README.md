@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Pablo-Loss/Pablo-Loss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Sou desenvolvedor <strong>Fullstack</strong> com foco em <strong>PHP (Laravel)</strong> no backend e <strong>JavaScript</strong> no front.
+  Também tenho experiência com MySQL, AngularJS, JQuery, APIs RESTful e mais.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: PHP, Laravel, JavaScript, JQuery, AngularJS, HTML, CSS
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Competências: MySQL, Git, API REST, API SOAP, Scrum e Kanban
+</p>
+
+<p align="left">
+  <a href="mailto:pabloloss97@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pablo-loss-534000187/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-loss-534000187/" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/losspablo" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/losspablo/" alt="Instagram"/></a>
+</p>
