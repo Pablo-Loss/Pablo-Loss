@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: PHP, Laravel, JavaScript, JQuery, AngularJS, HTML, CSS
+  🦄 Linguagens: PHP, Laravel, JavaScript, JQuery, AngularJS
 </p>
 
 <p align="left">
